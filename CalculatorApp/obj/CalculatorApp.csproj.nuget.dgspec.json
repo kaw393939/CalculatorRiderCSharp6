@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kwilliams/RiderProjects/Calculator/CalculatorApp/CalculatorApp.csproj": {}
+  },
+  "projects": {
+    "/Users/kwilliams/RiderProjects/Calculator/Calc/Calc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kwilliams/RiderProjects/Calculator/Calc/Calc.csproj",
+        "projectName": "Calc",
+        "projectPath": "/Users/kwilliams/RiderProjects/Calculator/Calc/Calc.csproj",
+        "packagesPath": "/Users/kwilliams/.nuget/packages/",
+        "outputPath": "/Users/kwilliams/RiderProjects/Calculator/Calc/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kwilliams/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kwilliams/RiderProjects/Calculator/CalculatorApp/CalculatorApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kwilliams/RiderProjects/Calculator/CalculatorApp/CalculatorApp.csproj",
+        "projectName": "CalculatorApp",
+        "projectPath": "/Users/kwilliams/RiderProjects/Calculator/CalculatorApp/CalculatorApp.csproj",
+        "packagesPath": "/Users/kwilliams/.nuget/packages/",
+        "outputPath": "/Users/kwilliams/RiderProjects/Calculator/CalculatorApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kwilliams/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/kwilliams/RiderProjects/Calculator/Calc/Calc.csproj": {
+                "projectPath": "/Users/kwilliams/RiderProjects/Calculator/Calc/Calc.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

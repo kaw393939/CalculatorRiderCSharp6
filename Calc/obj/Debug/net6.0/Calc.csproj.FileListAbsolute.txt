@@ -1,0 +1,12 @@
+/Users/kwilliams/RiderProjects/Calculator/Calc/bin/Debug/net6.0/Calc.deps.json
+/Users/kwilliams/RiderProjects/Calculator/Calc/bin/Debug/net6.0/Calc.dll
+/Users/kwilliams/RiderProjects/Calculator/Calc/bin/Debug/net6.0/ref/Calc.dll
+/Users/kwilliams/RiderProjects/Calculator/Calc/bin/Debug/net6.0/Calc.pdb
+/Users/kwilliams/RiderProjects/Calculator/Calc/obj/Debug/net6.0/Calc.csproj.AssemblyReference.cache
+/Users/kwilliams/RiderProjects/Calculator/Calc/obj/Debug/net6.0/Calc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kwilliams/RiderProjects/Calculator/Calc/obj/Debug/net6.0/Calc.AssemblyInfoInputs.cache
+/Users/kwilliams/RiderProjects/Calculator/Calc/obj/Debug/net6.0/Calc.AssemblyInfo.cs
+/Users/kwilliams/RiderProjects/Calculator/Calc/obj/Debug/net6.0/Calc.csproj.CoreCompileInputs.cache
+/Users/kwilliams/RiderProjects/Calculator/Calc/obj/Debug/net6.0/Calc.dll
+/Users/kwilliams/RiderProjects/Calculator/Calc/obj/Debug/net6.0/ref/Calc.dll
+/Users/kwilliams/RiderProjects/Calculator/Calc/obj/Debug/net6.0/Calc.pdb
